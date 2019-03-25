@@ -12,6 +12,7 @@
   * Remove rows from database.
   * Add rows into database.
   * Modify rows in database.
+  * *Do Not change the datatype of an attribute after defining for first time (to do this drop attribute and then again add it with changed data type).
 
 ## Specification of the xlsx file for manipulating database using it -
 * Each sheet represents a new table in the database (name of sheet is the name of table).
