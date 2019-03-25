@@ -1,4 +1,9 @@
 # Mysql-Excel-connector
+Only xlsx files are excepted for now.
+Library requirements - 
+* openpyxl
+* mysql.connector
+* tkinter
 
 ## What all can be done - 
 * Delete an existing database.
